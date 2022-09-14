@@ -1,0 +1,23 @@
+img {
+    width: 30%;
+}
+
+.main-content {
+    text-align: center;
+}
+
+.text-mid {
+    text-align: center;
+
+}
+
+.btn-ok {
+    border-radius: 10px;
+    padding: 5px 100px 5px 100px;
+    color: white;
+    background-color: #053bd1e8;
+}
+
+a {
+    text-decoration: none;
+}
